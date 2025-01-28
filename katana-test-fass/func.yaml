@@ -1,0 +1,4 @@
+specVersion: 0.36.0
+name: katana-test-fass
+runtime: go
+created: 2025-01-28T13:40:38.675268+05:00
